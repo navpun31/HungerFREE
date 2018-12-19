@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#51d8c7</color>-->
+    <color name="colorPrimary">#a48406</color>
+    <!--<color name="colorPrimaryDark">#51d8c7</color>-->
+    <color name="colorPrimaryDark">#a48406</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorBackgroundDashboard">#042100</color>
+    <color name="colorBackground">#042100</color>
+    <color name="colorBackProfile">#000000</color>
+    <color name="colorText">#FFFFFF</color>
+    <!--<color name="colorTextHint">#51d8c7</color>-->
+    <color name="colorTextHint">#a48406</color>
+
+    <color name="fab_icon">#FFFFFF</color>
+    <color name="fab_text">#000000</color>
+    <color name="hint_color">#6c5705</color>
+
+</resources>

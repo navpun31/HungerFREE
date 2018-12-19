@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "514804142308",
+    "firebase_url": "https://hungerfree-3ad21.firebaseio.com",
+    "project_id": "hungerfree-3ad21",
+    "storage_bucket": "hungerfree-3ad21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514804142308:android:26d48d541ccdcb53",
+        "android_client_info": {
+          "package_name": "com.spectators.hungerfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514804142308-vcdle68jpnelqm6ahls7k99n8nbp700n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spectators.hungerfree",
+            "certificate_hash": "c67b76a3072cd460df6c6c89f4e140455c63e245"
+          }
+        },
+        {
+          "client_id": "514804142308-p9je14ubhc1rc4eh8ef498n04olgbusl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUnDWat95aC34SH47zZOZAaIsj99-KAUE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514804142308-p9je14ubhc1rc4eh8ef498n04olgbusl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
